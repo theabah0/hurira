@@ -22,7 +22,7 @@
     }
  
 *{
-    color:rgb(00,00,30)
+     background-color:rgb(00,00,30);
      font-family: 'Poltawski Nowy', serif;
     max-width:100vw;
     max-height:100vh;
