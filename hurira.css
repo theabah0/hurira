@@ -8,13 +8,8 @@
 
     
 .menu {
-      position: fixed;
-      top: 10vw;
-      left: -250px;
-      width: 250px;
-      height: 100vh;
-      background-color: #f8f9fa;
-      transition: left 0.3s ease-in-out;
+      height:0;
+      transition: top 0.3s ease-in-out;
     }
 
     .menu.open {
