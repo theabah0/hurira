@@ -22,11 +22,12 @@
     }
  
 *{
+     font-family: 'Poltawski Nowy', serif;
     max-width:100vw;
     max-height:100vh;
 }
 body { 
-    font-family: 'Poltawski Nowy', serif;
+   
 background-color:#b9f;
 overflow: hidden;
  height: 100vh;
