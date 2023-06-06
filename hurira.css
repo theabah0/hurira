@@ -1,6 +1,12 @@
 :root{
     --bottom-navs-width
 }
+@import url('https://fonts.googleapis.com/css2?family=Poltawski+Nowy&display=swap');
+
+
+
+
+    
 .menu {
       position: fixed;
       top: 10vw;
@@ -20,6 +26,7 @@
     max-height:100vh;
 }
 body { 
+    font-family: 'Poltawski Nowy', serif;
 background-color:#b9f;
 overflow: hidden;
  height: 100vh;
