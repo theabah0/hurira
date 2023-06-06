@@ -31,6 +31,12 @@ background-color:#b9f;
 overflow: hidden;
  height: 100vh;
 
+
+  display: flex;
+  align-items: center; justify-content: center;
+  
+  
+ 
  }
  main {
   overflow-y: auto; 
@@ -77,20 +83,13 @@ overflow: hidden;
   font-family: arial, sans-serif;
   box-sizing: border-box;
 }
-body {
-  display: flex;
-  align-items: center; justify-content: center;
-  
-  
- 
-}
 
 /* WIDGET WRAPPER */
 .widget-wrap {
   width: 500px;
   padding: 20px;
-  border-radius: 20px;
-  background: rgba(255, 255, 255, 0.7);
+  
+  ;
 }
 .widget-wrap label, .widget-wrap input, .widget-wrap select {
   display: block;
