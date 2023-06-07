@@ -102,6 +102,7 @@ div,body,html{
 width:100%;
 }
 .clickMe, .clickMe::active{
-    border:3px solid rgb(200,200,210);
+    color:#001;
+    background-color: rgb(200,200,210);
         padding-bottom:20px;
     }
