@@ -103,6 +103,7 @@ width:100%;
 }
 .clickMe, .clickMe::active{
     color:#001;
+    border:2px solid #fff;
     background-color: rgb(200,200,210);
-        padding-bottom:20px;
+      margin-bottom:20px;
     }
